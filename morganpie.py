@@ -6,4 +6,4 @@ n = 0
 for x, y in a:
     if (x * x + y * y <= 1):
         n += 1
-print('Number of dots inside of circle: ', n ,'Pi = ', n/k*4)
+print('Number of dots inside of circle: ', n ,'| Pi = ', n/k*4)
